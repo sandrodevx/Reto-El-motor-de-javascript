@@ -1,9 +1,3 @@
-// Reto: El Motor de Javascript
-// 1. Crea una galería de imagen en la que mediante un botón 
-// cambien las imágenes mostradas. 🧠
-// 2. Intenta escribir el código de HTML, CSS y JS que ves en 
-// esta página renderizada. No tiene que ser perfecto! 🧑‍💻
-
 
 
 
